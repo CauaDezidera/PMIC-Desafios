@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.capa1{
+    background-image: url(images/fundo.png);
+}
+
+.capa2{
+    background-image: url(images/fundo2.png);
+}
+
+.container{
+    max-width: 70%;
+    margin: auto;
+}
+
+.header{
+   padding: 20px;
+}
+
+.logo{
+    float: left;
+}
+
+a{
+    float: right;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+
+.img-fundo{
+    width: 100%;
+    margin-top: 30px;
+    height: 410px;
+}
+
+h1{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+h3{
+    text-align: center;
+    margin: 60px;
+}
+
+h2{
+   margin-bottom: 20px; 
+   margin-top: 20px;
+  
+}
+
+.quem-somos{
+    padding-top: 90px;
+}
+
+li{
+    margin: 5px;
+}
+
+ol{
+    margin: 20px;
+}
+
+.contato{
+    padding: 60px;
+}
+
+.contato,p{
+    margin-bottom: 20px;
+}
+
+.form{
+    margin-top: 30px;
+    max-width: 200px;
+}
+
+input,select{
+    padding: 5px;
+    margin: 5px;
+}
