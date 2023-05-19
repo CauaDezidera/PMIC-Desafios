@@ -19,7 +19,6 @@ mysql = MySQL(app)
 
 
 @app.route("/")
-@app.route("/home")
 def home():
     return render_template("home.html")
 
@@ -57,3 +56,4 @@ def users():
         userDetails = cur.fetchall()
 
         return render_template("users.html", userDetails=userDetails)
+    
