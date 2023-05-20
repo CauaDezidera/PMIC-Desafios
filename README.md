@@ -1,2 +1,2 @@
-# desafio01
-Trabalho ADS 1 
+# Programação em Microinformática - Desafios
+Trabalho ADS do primeiro semestre
